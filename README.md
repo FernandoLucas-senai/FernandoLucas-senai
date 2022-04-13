@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FernandoLucas-senai
+- 👋 Hi, I’m Feranndo Lucas (@FernandoLucas-senai)
 - 👀 I’m interested in learn programming
 - 🌱 I’m currently learning HTML and Android Development 
 
